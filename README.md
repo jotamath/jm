@@ -6,4 +6,4 @@
 > - HTML
 > - Vercel
 
-> Conferir o SITE: [WEBSITE](https://jotamath.github.com/jm)
+> Conferir o SITE: [WEBSITE](https://jotamath.github.io/jm)
